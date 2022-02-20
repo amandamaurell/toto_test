@@ -1,0 +1,11 @@
+setup.py
+scripts/toto_test-run
+tests/__init__.py
+tests/lib_test.py
+toto_test/__init__.py
+toto_test/lib.py
+toto_test.egg-info/PKG-INFO
+toto_test.egg-info/SOURCES.txt
+toto_test.egg-info/dependency_links.txt
+toto_test.egg-info/requires.txt
+toto_test.egg-info/top_level.txt
